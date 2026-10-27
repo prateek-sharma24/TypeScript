@@ -25,6 +25,5 @@ switch(day)
         console.log("Sunday");
         break;
     default:
-
+        console.log("Invalid day");
 }
-
